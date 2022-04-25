@@ -79,7 +79,7 @@ const ProjectsData = [
         subTitle: "R2H Apprenticeship",
         expanded: {
             logo: "https://ivanna.da2mr8n210681.amplifyapp.com/img/pexels-karolina-grabowska-4968392.jpg",
-            date: "Februaey 2022",
+            date: "February 2022",
             text: "The Hope Hackathon Website was created to educate the user on the importance of learning about financial literacy.",
             frontend: "HTML | CSS | JavaScript",
             backend: "API Development",

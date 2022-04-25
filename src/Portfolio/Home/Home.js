@@ -8,6 +8,7 @@ import Footer from "../../../src/Components/Footer/Footer";
 import Banner from "../../../src/Components/Banner/Banner";
 
 import { Element } from "react-scroll";
+import ContactForm from "../../Components/Contact/ContactForm";
 
 const Home = (props) => {
     useEffect(() => {
@@ -32,6 +33,7 @@ const Home = (props) => {
                 </Element>
                 <Element name="contact-scroll">
                     <Contact />
+                    {/* <ContactForm /> */}
                 </Element>
                 <Footer />
             </div>
