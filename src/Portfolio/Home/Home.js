@@ -33,7 +33,7 @@ const Home = (props) => {
                 </Element>
                 <Element name="contact-scroll">
                     <Contact />
-                    {/* <ContactForm /> */}
+                    <ContactForm />
                 </Element>
                 <Footer />
             </div>
