@@ -13,13 +13,11 @@ const Profile = (props) => {
                             Software Engineer
                         </h3>
                         <p className="two-column-grid__column__body">
-                            I am a talented and results-oriented aspiring
+                            I am a talented and results-oriented
                             Software Developer with a passion for using my
                             technical skills to introduce innovative methods to
-                            meet objectives. I’m living the dream. I’ve always
-                            been a great problem solver, and a technophile
-                            obsessed with the latest devices. Today, I’m working
-                            from home as a software engineer for Road to Hire,
+                            meet objectives. Today, I’m working
+                            from home as a software engineer for Red Ventures - The Points Guy,
                             and I get to show off all these elements of who I
                             am. Software engineering was the right field for me.
                             Since then, I’m familiar with a variety of
