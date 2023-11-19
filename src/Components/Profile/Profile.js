@@ -10,7 +10,7 @@ const Profile = (props) => {
                             About Me
                         </h2>
                         <h3 className="two-column-grid__column__subtitle">
-                            I'm an Aspiring Software Engineer
+                            Software Engineer
                         </h3>
                         <p className="two-column-grid__column__body">
                             I am a talented and results-oriented aspiring
